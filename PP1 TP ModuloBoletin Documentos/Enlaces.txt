@@ -1,8 +1,0 @@
-https://labo-app.herokuapp.com/login/?nombre=emanuel&categoria=directivo&instituto=manzanaisaac&email=emanuelelgani@gmail.com&telegram_id=1048478382&metodo_contacto=Correo
-
-https://www.inkdesign.com.ar/account/testdirectivo/?redirect_to=https://www.inkdesign.com.ar/
-
-
-https://proyecto-ungs.atlassian.net/jira/software/projects/UNGS/boards/1/backlog
-
-
