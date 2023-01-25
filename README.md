@@ -10,8 +10,9 @@ El dominio que abordaremos en aquí es la toma de información que recupera un m
 
 2) Objetivos del proyecto:\
 El presente proyecto tiene como objetivo poder proveer a las autoridades del colegio, padres y alumnos, información útil y procesada, enfocada en los indicadores y datos sobre la concientización ambiental y ahorro energético que se monitorea en el instituto educativo. Además, según los datos arrojados se hará un análisis para identificar posibles mejoras para que, aquellos indicadores que no fueron óptimos, mediante una serie de acciones a realizar esos niveles mejoren. Para ello, se sugerirá y notificará dichas acciones teniendo en cuenta al público que nos dirigimos para adecuarlo y garantizar el entendimiento de este. En el boletín también se comunicará información general del alumnado, como puede ser el porcentaje de notas o el nivel de inasistencia.\
-Dicho boletín se enviará una vez al mes por el canal que el usuario haya elegido al momento de registrarse en el portal.
+Dicho boletín se enviará una vez al mes por el canal que el usuario haya elegido al momento de registrarse en el portal.\
 
+Para mas informacion leer los archivos Enunciado.pdf, Alcances.pdf y Plan de proyecto - Entrega final.dock
 
 #### ACLARACIONES
 
