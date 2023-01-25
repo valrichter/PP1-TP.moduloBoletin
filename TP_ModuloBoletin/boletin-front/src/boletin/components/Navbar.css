@@ -1,0 +1,9 @@
+.navbar {
+    background-color: #6fa363;
+}
+
+.nav-link, .boletin-a {
+    pointer-events: none;
+    cursor: default;
+    color: black;
+}

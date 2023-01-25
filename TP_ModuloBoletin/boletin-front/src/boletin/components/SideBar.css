@@ -1,0 +1,58 @@
+@import url('https://fonts.cdnfonts.com/css/nu-century-gothic');
+   
+
+body {
+    background: #eee;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+#side_nav{
+    
+    background: #6fa363;
+    min-width: 250px;
+    max-width: 250px;
+    transition: all 0.3s;
+}
+
+.content{
+    min-height: 100vh;
+    width: 100%;
+}
+
+hr.h-color{
+ background: #eee;   
+}
+
+a {
+    font-style: italic;
+    font: 1em 'Segoe UI','Century Gothic';
+}
+
+.sidebar li > a.active{
+    background: #eee;
+    border-radius: 8px;
+}
+
+.sidebar li > a.active, .sidebar li > a.active a:hover{
+    color: #000;
+} 
+
+.sidebar li a{
+    color: #fff;
+}
+
+
+
+@media(max-width: 767px){
+    #side_nav{
+        margin-left: -250px;
+        position: fixed;
+        min-height: 100vh;
+        z-index: 1;
+    }
+
+
+    #side_nav.active{
+        margin-left: 0;
+    }
+}

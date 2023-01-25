@@ -1,0 +1,9 @@
+.btn-portal {
+    background-color: #1b9752;
+    color: white;
+    margin: 3px;
+}
+.btn-portal:hover{
+    background-color: #044a23;
+    color:white;
+}
