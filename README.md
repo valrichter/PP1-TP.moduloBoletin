@@ -12,10 +12,11 @@ El dominio que abordaremos en aquí es la toma de información que recupera un m
 El presente proyecto tiene como objetivo poder proveer a las autoridades del colegio, padres y alumnos, información útil y procesada, enfocada en los indicadores y datos sobre la concientización ambiental y ahorro energético que se monitorea en el instituto educativo. Además, según los datos arrojados se hará un análisis para identificar posibles mejoras para que, aquellos indicadores que no fueron óptimos, mediante una serie de acciones a realizar esos niveles mejoren. Para ello, se sugerirá y notificará dichas acciones teniendo en cuenta al público que nos dirigimos para adecuarlo y garantizar el entendimiento de este. En el boletín también se comunicará información general del alumnado, como puede ser el porcentaje de notas o el nivel de inasistencia.\
 Dicho boletín se enviará una vez al mes por el canal que el usuario haya elegido al momento de registrarse en el portal.\
 
-Para mas informacion leer los archivos Enunciado.pdf, Alcances.pdf y Plan de proyecto - Entrega final.dock
+Para mas informacion leer los archivos Enunciado.pdf, Alcances.pdf y PlanDeProyecto-EntregaFinal.pdf
 
 #### ACLARACIONES
 
+1) Toda la informacion y documentacion se encuetra [aca](https://drive.google.com/drive/folders/10JU3ymDW7bmx9e54_Mvn-Qzr1st2EbLV?usp=share_link)
 1) Se desarrollo frontend, backend y APIs integrando varios modulos de otros equipos de trabajo
-2) El codigo no esta en funcionamiento, es solo de muestra, esto debido a que para probarse usaba datos de usarios hardcodeados.\
-Sin embargo en la carpeta DEMOS se puede ver que funciones cumplia. 
+3) El codigo no esta en funcionamiento, es solo de muestra, esto debido a que para probarse usaba datos de usarios hardcodeados.
+Sin embargo dentro del google drive en la carpeta DEMOS se puede ver que funciones cumplia.
