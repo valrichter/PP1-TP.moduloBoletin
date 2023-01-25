@@ -16,5 +16,6 @@ Para mas informacion leer los archivos Enunciado.pdf, Alcances.pdf y Plan de pro
 
 #### ACLARACIONES
 
-1) Todo el codigo esta explicado dentro del mismo
-2) Los archivos fueron ejecutados dentro del entorno de Jupyter Notebook
+1) Se desarrollo frontend, backend y APIs integrando varios modulos de otros equipos de trabajo
+2) El codigo no esta en funcionamiento, es solo de muestra, esto debido a que para probarse usaba datos de usarios hardcodeados.\
+Sin embargo en la carpeta DEMOS se puede ver que funciones cumplia. 
