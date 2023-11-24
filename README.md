@@ -17,6 +17,7 @@ Para mas informacion leer los archivos Enunciado.pdf, Alcances.pdf y PlanDeProye
 #### ACLARACIONES
 
 1) Toda la informacion y documentacion se encuetra [aca](https://drive.google.com/drive/folders/10JU3ymDW7bmx9e54_Mvn-Qzr1st2EbLV?usp=share_link)
-2) Se desarrollo front-end, back-end y APIs integrando varios modulos de otros equipos de trabajo
-3) El codigo no esta en funcionamiento, es solo de muestra, esto debido a que para probarse usaba datos de usarios hardcodeados.
+2) [DEMOS](https://drive.google.com/drive/folders/1kKXHlVKx9AxY_fLrJ4SizFvSrpJwwk8o) 
+3) Se desarrollo front-end, back-end y APIs integrando varios modulos de otros equipos de trabajo
+4) El codigo no esta en funcionamiento, es solo de muestra, esto debido a que para probarse usaba datos de usarios hardcodeados.
 Sin embargo dentro del google drive en la carpeta DEMOS se puede ver que funciones cumplia.
